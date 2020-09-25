@@ -1,5 +1,7 @@
 {
-  "name": "on9-accenture-s7-api-get",
+mariana-silva
+  "name": "On9-Accenture-S7-API-GET",
+master
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +10,7 @@
   },
   "repository": {
     "type": "git",
+mariana-silva
     "url": "git+https://github.com/marianadasilva/On9-Accenture-S7-API-GET.git"
   },
   "author": "",
@@ -16,6 +19,16 @@
     "url": "https://github.com/marianadasilva/On9-Accenture-S7-API-GET/issues"
   },
   "homepage": "https://github.com/marianadasilva/On9-Accenture-S7-API-GET#readme",
+    "url": "git+https://github.com/reprograma/On9-Accenture-S7-API-GET.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reprograma/On9-Accenture-S7-API-GET/issues"
+  },
+  "homepage": "https://github.com/reprograma/On9-Accenture-S7-API-GET#readme",
+master
   "dependencies": {
     "express": "^4.17.1"
   }
